@@ -32,6 +32,6 @@ Faculdade Senac Paraná | 2024 - 2026
 
 
 ## 💼 Professional Experience 
-### Coopavel
-***Junior Software Developer*** | 06/2025 - At the moment
+### Aliare
+***Full Stack Developer*** | 07/2025 - At the moment
 
