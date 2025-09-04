@@ -21,8 +21,9 @@ I'm currently competing as a Software Engineer at the startup **[CapitiTech](#)*
 </div>
 
 ## 🚀 Technologies
-- **Linguagens:** Java, TypeScript, C#
-- **Frameworks:** Spring Boot, .NET / .NET Maui / .NET Core, NestJS
+- **Linguagens:** Java, TypeScript, C#, JavaScript
+- **Frameworks Backend:** Spring Boot, .NET / .NET Maui / .NET Core, NestJS
+- **Frameworks Frontend:** Vue JS
 - **Banco de dados:** PostgreSQL,MySQL, PrismaORM
 - **Arquiteturas:** MVC, REST, Microservices
 
